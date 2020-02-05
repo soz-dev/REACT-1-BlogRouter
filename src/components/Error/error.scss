@@ -1,0 +1,13 @@
+// On importe le fichier avec les différentes variables
+@import 'src/styles/vars';
+
+#error {
+  text-align: center;
+  padding:2em 2em 5em;
+
+  h1 {
+    font-size:4em;
+    margin-bottom: .3em;
+    color: $active-color;
+  }
+}

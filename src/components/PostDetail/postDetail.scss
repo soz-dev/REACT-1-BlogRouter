@@ -1,0 +1,17 @@
+.post-detail {
+  padding:2em;
+  max-width:600px;
+  margin:0 auto;
+
+  &-title {
+    font-size:2em;
+    color:black;
+  }
+
+  &-content {
+    margin-top:1em;
+    padding-top:1em;
+    border-top:1px solid #ddd;
+    line-height: 1.4;
+  }
+}

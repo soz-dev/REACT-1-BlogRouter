@@ -1,0 +1,7 @@
+// On importe le fichier avec les différentes variables
+@import 'src/styles/vars';
+
+#blog{
+  color: $content-color;
+  font-family: Roboto, sans-serif;
+}

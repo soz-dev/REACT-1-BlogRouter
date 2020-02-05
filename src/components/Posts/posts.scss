@@ -1,0 +1,9 @@
+// On importe le fichier avec les différentes variables
+@import 'src/styles/vars';
+
+#posts {
+  margin: 2em auto;
+  max-width: 900px;
+  display: flex;
+  flex-wrap: wrap;
+}

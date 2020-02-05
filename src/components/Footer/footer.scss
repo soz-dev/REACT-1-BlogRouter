@@ -1,0 +1,9 @@
+// On importe le fichier avec les différentes variables
+@import 'src/styles/vars';
+
+#footer {
+  padding: 6em;
+  text-align: center;
+  color: $content-light-color;
+  background-color: $dark-color;
+}
